@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Addition</string>
+    <string name="calculateAdditionButton">Add</string>
+</resources>
